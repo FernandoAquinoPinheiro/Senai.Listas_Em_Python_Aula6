@@ -1,0 +1,1 @@
+# Senai.Listas_Em_Python_Aula6
